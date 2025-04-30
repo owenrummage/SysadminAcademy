@@ -1,0 +1,8 @@
+{
+  "label": "Linux Servers",
+  "position": 2,
+  "link": {
+    "type": "generated-index",
+    "description": "Learn about Linux administration, including system management, user management, and network configuration."
+  }
+}

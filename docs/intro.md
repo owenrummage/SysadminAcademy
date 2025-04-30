@@ -1,47 +1,24 @@
 ---
 sidebar_position: 1
+title: Introduction
 ---
+# Welcome to the SysAdmin Academy
 
-# Tutorial Intro
+The SysAdmin Academy is your go-to resource for mastering the art and science of system administration. Whether you're a beginner taking your first steps or an experienced professional looking to sharpen your skills, this academy is designed to provide you with the knowledge and tools you need to succeed.
 
-Let's discover **Docusaurus in less than 5 minutes**.
+## What You'll Learn
 
-## Getting Started
+- **Core Concepts**: Understand the fundamentals of system administration, including operating systems, networking, and security.
+- **Practical Skills**: Gain hands-on experience with tools and techniques used by system administrators.
+- **Best Practices**: Learn how to manage systems efficiently, troubleshoot issues, and ensure reliability.
 
-Get started by **creating a new site**.
+## Who Is This For?
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+This academy is perfect for:
+- Aspiring system administrators
+- IT professionals looking to expand their expertise
+- Anyone passionate about technology and systems management
 
-### What you'll need
+## Let's Get Started!
 
-- [Node.js](https://nodejs.org/en/download/) version 18.0 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
-
-## Generate a new site
-
-Generate a new Docusaurus site using the **classic template**.
-
-The classic template will automatically be added to your project after you run the command:
-
-```bash
-npm init docusaurus@latest my-website classic
-```
-
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
-
-The command also installs all necessary dependencies you need to run Docusaurus.
-
-## Start your site
-
-Run the development server:
-
-```bash
-cd my-website
-npm run start
-```
-
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
-
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
-
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+Dive into the world of system administration and take your skills to the next level. Explore our guides, tutorials, and resources to begin your journey today!
